@@ -30,4 +30,4 @@ end
   end
 end
 
-printer(array)
+printer(Array)
